@@ -1,0 +1,262 @@
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-100);
+  width: 369px;
+  height: 211px;
+}
+.weight {
+  position: absolute;
+  top: 13.99px;
+  left: 33px;
+  font-weight: 600;
+  display: inline-block;
+  width: 73px;
+  height: 12.92px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: -196px;
+  left: 30px;
+  width: 369px;
+  height: 211px;
+  display: none;
+}
+.component-1-child,
+.group-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-1-child {
+  height: 177.53%;
+  width: 118.46%;
+  top: -23.6%;
+  right: -18.46%;
+  bottom: -53.93%;
+  left: 0;
+  border-radius: var(--br-11xl);
+}
+.group-icon {
+  height: 23.6%;
+  width: 4.91%;
+  top: 48.31%;
+  right: 82.94%;
+  bottom: 28.09%;
+  left: 12.15%;
+}
+.component-1-item {
+  position: absolute;
+  height: 50.56%;
+  width: 10.51%;
+  top: 0;
+  right: 44.63%;
+  bottom: 49.44%;
+  left: 44.86%;
+  border-radius: 50%;
+  background-color: var(--color-forestgreen);
+}
+.div {
+  position: absolute;
+  height: 31.46%;
+  width: 4.21%;
+  top: 10.11%;
+  left: 47.9%;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+}
+.clarityheart-line-icon,
+.group-icon1,
+.line-mdaccount-small-icon {
+  position: absolute;
+  height: 25.84%;
+  width: 5.37%;
+  top: 48.31%;
+  right: 64.95%;
+  bottom: 25.84%;
+  left: 29.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon1,
+.line-mdaccount-small-icon {
+  height: 22.47%;
+  width: 3.74%;
+  top: 50.56%;
+  right: 30.14%;
+  bottom: 26.97%;
+  left: 66.12%;
+}
+.line-mdaccount-small-icon {
+  height: 29.21%;
+  width: 6.07%;
+  top: 46.07%;
+  right: 10.98%;
+  bottom: 24.72%;
+  left: 82.94%;
+}
+.component-1 {
+  position: absolute;
+  top: 847px;
+  left: 0;
+  width: 428px;
+  height: 89px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+}
+.bxbx-menu-alt-left-icon {
+  position: absolute;
+  top: 39px;
+  left: 24px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.fuel-tracker {
+  position: absolute;
+  top: 4.75%;
+  left: 38.79%;
+  font-size: 16px;
+  color: #333;
+  text-align: left;
+}
+.goals-setup-child,
+.goals-setup-item {
+  position: absolute;
+  top: 84px;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  width: 428px;
+  height: 5px;
+}
+.goals-setup-item {
+  background-color: var(--color-forestgreen);
+  width: 111px;
+}
+.welcome-thanks {
+  margin: 0;
+}
+.welcome-thanks-for-container {
+  position: absolute;
+  top: 127px;
+  left: 124px;
+  font-weight: 500;
+  color: #3e423a;
+}
+.please-select-the-container {
+  position: absolute;
+  top: 225px;
+  left: 113px;
+  font-size: 14px;
+  color: #9d9d9d;
+}
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-200);
+  width: 356px;
+  height: 77px;
+}
+.group-inner {
+  top: 3px;
+  left: 3px;
+  background-color: var(--color-white);
+  width: 350px;
+  height: 71px;
+}
+.lose-weight,
+.rectangle-group {
+  position: absolute;
+  top: 23px;
+  left: 26px;
+}
+.rectangle-group {
+  top: 346px;
+  left: 36px;
+  width: 356px;
+  height: 77px;
+}
+.gain-muscle {
+  position: absolute;
+  top: 23px;
+  left: 21px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 691px;
+  left: 39px;
+  width: 356px;
+  height: 77px;
+}
+.gain-weight {
+  position: absolute;
+  top: 23px;
+  left: 24px;
+}
+.group-child4,
+.group-div {
+  position: absolute;
+  top: 576px;
+  left: 36px;
+  width: 356px;
+  height: 77px;
+}
+.group-child4 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-forestgreen);
+}
+.maintain-weight {
+  position: absolute;
+  top: 24px;
+  left: 26px;
+}
+.box-icon {
+  position: relative;
+  width: 15.34px;
+  height: 15.34px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.checkbox-human-interface-gui {
+  position: absolute;
+  top: 30px;
+  left: 319px;
+  width: 20px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.533796787261963px;
+  box-sizing: border-box;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 461px;
+  left: 36px;
+  width: 356px;
+  height: 77px;
+}
+.goals-setup {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 926px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
